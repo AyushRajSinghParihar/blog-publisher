@@ -1,0 +1,4 @@
+interface:
+  display_name: "Blog Publisher"
+  short_description: "Publish an exact reviewed article and verify it"
+  default_prompt: "Use $blog-publisher to inspect this site’s publishing workflow and prepare or resume the exact reviewed article."
